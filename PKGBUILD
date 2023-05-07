@@ -1,5 +1,5 @@
 # Maintainer: Jguer <pkgbuilds at jguer.space>
-pkgname=yay-bin
+pkgname=yay
 pkgver=12.0.4
 pkgrel=1
 pkgdesc="Yet another yogurt. Pacman wrapper and AUR helper written in go. Pre-compiled."
